@@ -1,0 +1,20 @@
+Process,FailureMode,FailureEffect,FailureCause,Severity,Occurrence,Detection
+Pole Wheel Assembly,Pole Wheel Missing,ABS Signal Failure,Assembly Error,9,3,3
+Pole Wheel Assembly,Bolt Missing,Pole Wheel Loosening,Operator Error,8,3,3
+Pole Wheel Assembly,Washer Missing,Improper Clamping Force,Operator Error,7,3,3
+Pole Wheel Assembly,Under Torque,Pole Wheel Loosening,Incorrect Torque Setting,8,4,3
+Pole Wheel Assembly,Over Torque,Thread Damage,Incorrect Torque Setting,7,3,4
+
+Brake Disc Assembly,Missing Bolt,Brake Disc Loosening,Operator Error,10,2,2
+Brake Disc Assembly,Under Torque,Brake Disc Loosening,Incorrect Torque Setting,9,4,3
+Brake Disc Assembly,Over Torque,Thread Damage,Incorrect Torque Setting,8,3,4
+
+Wheel Hub Nut Tightening,Missing Nut,Wheel Hub Loosening,Operator Error,10,2,2
+Wheel Hub Nut Tightening,Under Torque,Wheel Hub Loosening,Incorrect Torque Setting,9,4,3
+Wheel Hub Nut Tightening,Over Torque,Thread Damage,Incorrect Torque Setting,8,3,4
+
+Chuck Nut Assembly,Chuck Nut Missing,Locking Failure,Operator Error,10,2,2
+Chuck Nut Assembly,Washer Missing,Loss of Locking Function,Operator Error,8,3,3
+Chuck Nut Assembly,Missing Bolt,Chuck Nut Plate Loosening,Operator Error,9,3,3
+Chuck Nut Assembly,Under Torque,Chuck Nut Plate Loosening,Incorrect Torque Setting,8,4,3
+Chuck Nut Assembly,Over Torque,Thread Damage,Incorrect Torque Setting,7,3,4

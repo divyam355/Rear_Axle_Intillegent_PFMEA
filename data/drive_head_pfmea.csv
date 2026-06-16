@@ -1,0 +1,6 @@
+Process,FailureMode,FailureEffect,FailureCause,Severity,Occurrence,Detection
+Sealant Application,Sealant Missing,Oil Leakage,Operator Error,9,3,3
+Drive Head Fitment,Improper Seating,Leakage/Misalignment,Assembly Error,9,3,4
+Drive Head Bolt Tightening,Under Torque,Joint Loosening,Incorrect Torque,8,4,3
+Drive Head Bolt Tightening,Over Torque,Thread Damage,Incorrect Torque,7,3,4
+Drive Head Bolt Tightening,Missing Bolt,Structural Failure,Operator Error,10,2,2

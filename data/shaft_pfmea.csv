@@ -1,0 +1,8 @@
+Process,FailureMode,FailureEffect,FailureCause,Severity,Occurrence,Detection
+Sealant Application,Sealant Missing,Oil Leakage,Assembly Error,8,3,3
+Shaft Verification,Wrong Shaft Installed,Assembly Functional Failure,Operator Error,10,2,3
+Shaft Fitment,Shaft Missing,Power Transmission Failure,Assembly Error,10,2,2
+Shaft Alignment,Misalignment,Seal Wear and Vibration,Improper Assembly,9,3,3
+Shaft Bolt Tightening,Missing Bolt,Shaft Loosening,Operator Error,9,3,3
+Shaft Bolt Tightening,Under Torque,Shaft Loosening,Incorrect Torque Setting,9,4,3
+Shaft Bolt Tightening,Over Torque,Thread Damage,Incorrect Torque Setting,8,3,4

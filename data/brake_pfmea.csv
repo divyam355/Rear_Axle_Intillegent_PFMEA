@@ -1,0 +1,26 @@
+Process,FailureMode,FailureEffect,FailureCause,Severity,Occurrence,Detection
+
+Brake Caliper Verification,Caliper Missing,Brake Failure,Assembly Error,10,2,2
+Brake Caliper Verification,Wrong Caliper Installed,Brake Performance Issue,Operator Error,9,2,3
+
+Brake Caliper Alignment,Misalignment,Uneven Brake Wear,Improper Assembly,8,3,3
+
+Brake Caliper Bolt Tightening,Missing Bolt,Caliper Loosening,Operator Error,9,3,3
+Brake Caliper Bolt Tightening,Under Torque,Caliper Loosening,Incorrect Torque Setting,9,4,3
+Brake Caliper Bolt Tightening,Over Torque,Thread Damage,Incorrect Torque Setting,8,3,4
+
+Brake Chamber Verification,Chamber Missing,Brake Failure,Assembly Error,10,2,2
+Brake Chamber Verification,Wrong Chamber Installed,Brake Performance Issue,Operator Error,9,2,3
+
+Brake Chamber Alignment,Misalignment,Brake Force Variation,Improper Assembly,8,3,3
+
+Brake Chamber Bolt Tightening,Missing Bolt,Chamber Loosening,Operator Error,9,3,3
+Brake Chamber Bolt Tightening,Under Torque,Chamber Loosening,Incorrect Torque Setting,9,4,3
+Brake Chamber Bolt Tightening,Over Torque,Thread Damage,Incorrect Torque Setting,8,3,4
+
+ABS Sensor Verification,Sensor Missing,ABS Failure,Assembly Error,10,2,2
+ABS Sensor Verification,Wrong Sensor Installed,ABS Malfunction,Operator Error,9,2,3
+
+ABS Sensor Installation,Sensor Not Fully Inserted,Intermittent ABS Signal,Improper Assembly,8,3,3
+
+ABS Air Gap Verification,Incorrect Air Gap,ABS Signal Error,Improper Adjustment,8,4,3

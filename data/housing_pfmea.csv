@@ -1,0 +1,9 @@
+Process,FailureMode,FailureEffect,FailureCause,Severity,Occurrence,Detection
+Drain Plug Assembly,Missing Plug,Oil Leakage,Operator Error,9,3,2
+Drain Plug Assembly,Missing Washer,Oil Leakage,Assembly Error,8,3,3
+Drain Plug Assembly,Under Torque,Oil Leakage,Incorrect Torque Setting,8,4,3
+Drain Plug Assembly,Over Torque,Thread Damage,Incorrect Torque Setting,6,3,4
+Magnetic Plug Assembly,Missing Plug,Oil Leakage,Operator Error,9,3,2
+Magnetic Plug Assembly,Missing Washer,Oil Leakage,Assembly Error,8,3,3
+Magnetic Plug Assembly,Under Torque,Oil Leakage,Incorrect Torque Setting,8,4,3
+Magnetic Plug Assembly,Over Torque,Thread Damage,Incorrect Torque Setting,6,3,4
